@@ -142,3 +142,29 @@ input::placeholder {
     width: 35vw;
     font-size: 1.3vw;
 }
+
+.finalText {
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: ce;
+    font-size: 1.5vw;
+}
+
+.textp {
+    width: 75vw;
+}
+
+
+.perso {
+    width: 100vw;
+    text-align: center;
+}
+
+.perso > h1 {
+    font-weight: 100;
+    font-size: 3vw;
+    color: #2a5295;
+}
